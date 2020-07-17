@@ -1,0 +1,13 @@
+# RING DETAIL
+- Pure Concentric Rings
+- Used by the wedding couple as silver engagement rings
+- Glow softly and give off small amounts of power when in close proximity to each other
+- They have a notch that allows them to fit inside each other
+- If they are observed normally, they appear to be simple Rings of Light
+- If they are united, and the magic word is spoken, they reveal their true nature and bestow a great amount of power to the user
+- Mages using the rings can apply any/all of the following affects to any single spell once per week
+	- Enlarge Spell - Double the range of a spell
+	- Extend Spell - Double the duration of a spell
+	- Maximize Spell - All variable, numeric effects of a spell (dice rolls) are automatically considered to be their maximum value
+	- Widen Spell - Double the affected area of a spell
+- Use of the rings does not increase the spell slot level the spell uses up, as it would if the feats were used normally

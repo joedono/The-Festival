@@ -1,0 +1,43 @@
+# SKELETAL T-REX x4
+- Base: Skeletal Tyrannosaurus
+- CR: 8
+- Size/Type: Huge Animal
+- Align: Neutral Evil
+- HD: 18d8+99 (180hp)
+- Initiative: +5
+- Speed: 40ft (8 squares)
+- AC: 13 (-2 size, +2 Dex, +3 natural), Touch: 10, FF: 11
+- Saves: Fort +22, Ref +18, Will +19
+- Abilities: Str 28, Dex 14, Con 0, Int 0, Wis 10, Cha 1
+- BAB: +13, Grapple: +30
+- Attack: Bite +20 melee (2d6+13 dmg)
+- Full Attack: Bite +20 melee (2d6+13 dmg)
+- Space/Reach: 15ft/10ft
+- Skills
+	- -2 Hide
+	- +14 Listen
+	- +14 Spot
+- Special Qualities
+	- Immune to Cold
+	- DR 5/buldgeoning
+- Feats
+	- Improved Initiative
+- Special Attacks
+	- Improved Grab
+		- Hit a target with a bite attack
+		- Can start a grapple as a free action
+		- No AoO
+	- Swallow Whole
+		- Make a successful grapple attack against a grappled opponent to try to swallow them whole
+		- Swallowed creature takes 2d8+8 bludgeoning damage from being swallowed
+		- Swallowed creature takes 8 fire damage per round after being swallowed
+		- Swallowed creature can cut its way out using a light melee weapon to deal 25 dmg to t-rex stomach (AC 12)
+		- Once a creature exits, the hole closes immediately, and subsequent creatures must cut their way out again
+		- T-Rex stomach can hold 2 Medium, 8 Small, 32 Tiny, or 128 Diminutive or smaller opponents
+	- Fire Breath
+		- Standard Action
+		- 3 uses/day
+		- 5d6+15 fire damage
+		- Range: 25ft
+		- Area: Cone
+		- Reflex Half DC = 17

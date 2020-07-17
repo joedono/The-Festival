@@ -1,0 +1,271 @@
+# BIG BAD
+
+Quaris
+- Base: Demon, Galbrezu
+- Like succubi, glabrezu tempt victims into ruin, but they lure their prey with power or wealth rather than passion
+- Glabrezu have penetrating violet eyes, and their skin color ranges from deep russet to pitch black
+- A glabrezu stands about 15 feet tall and weighs about 5,500 pounds
+- CR: 13
+- Size/Type: Huge Outsider
+- Align: Chaotic Evil
+- HD: 12d8+120 (174hp)
+- Initiative: +0
+- Speed: 40ft (8 squares)
+- AC: 27 (-2 size, +19 natural), Touch: 8, FF: 27
+- Saves: Fort +18, Ref +8, Will +11
+- Abilities: Str 31, Dex 10, Con 31, Int 16, Wis 16, Cha 20
+- BAB: +12, Grapple: +30
+- Attack: Pincers +20 melee (2d8+10 dmg)
+- Full Attack: 2 Pincers +20 melee (2d8+10 dmg) and 2 Claws +18 melee (1d6+5 dmg) and bite +18 (1d8+5 dmg)
+- Space/Reach: 15ft/15ft
+- Caster Level: 14
+- Skills
+	- Bluff +22
+	- Concentration +25
+	- Diplomacy +9
+	- Disguise +5 (+7 acting)
+	- Intimidate +24
+	- Knowledge (any two) +18
+	- Listen +26
+	- Move Silently +15
+	- Search +18
+	- Sense Motive +18
+	- Spellcraft +18
+	- Spot +26
+	- Survival +3 (+5 following tracks)
+- Special Qualities
+	- Damage Reduction 10/good
+	- Darkvision 60ft
+	- Immunities
+		- Electricity
+		- Poison
+	- Resistance
+		- Acid 10
+		- Cold 10
+		- Fire 10
+		- Spell 21
+	- Telepathy 100ft
+	- True Seeing
+- Feats
+	- Power Attack
+	- Cleave
+	- Great Cleave
+	- Multiattack
+	- Persuasive
+- Special Attacks
+	- Improved Grab
+		- After hitting a target with a pincer attack
+		- Can start a grapple as a free action
+		- No AoO
+	- Spell-like Abilities
+		- At will
+			- Chaos Hammer
+				- Deals 5d8 dmg to lawful creatures and slows them for 1d6 rounds
+				- Slow
+					- Creature can only take a move or a standard action per turn, but not both
+					- -1 penalty to attack rolls, AC, and Reflex saves
+					- Creature can only move at half speed
+				- Standard Action
+				- Range: 100ft+10ft/level
+				- Area: 20ft radius
+				- Will Partial (half damage and no slow) DC = 19
+			- Confusion
+				- Causes a target to become confused for 1 round/caster's level
+					- Roll a d6 at the beginning of each turn to see what the character does on that turn
+					- 1 - Try to attack caster
+					- 2 - Act normally
+					- 3 - Do nothing but babble incoherently
+					- 4 - Flee from caster as fast as possible
+					- 5 - Attack nearest creature
+					- 6 - Reroll
+				- Standard action
+				- All creatures in 15ft radius
+				- Will Negates DC = 19
+			- Dispel Magic
+				- End ongoing magical effects or temporarily suspend the magical traits of items for 1d4 rounds
+			- Mirror Image
+				- Creates 1d4+1/3 caster levels copies of caster
+				- Standard Action
+				- Duration: 1min/level
+				- Attackers must choose which image to attack
+				- Roll randomly to determine if they hit the original or not
+				- Images dissipate as soon as they are attacked
+			- Reverse Gravity
+				- Reverses gravity in an area
+				- Range: 100ft+10ft/level
+				- Area: 10 cubic feet/2 levels
+				- Duration: 1 round/level
+				- Reflex Negates (creature affixes itself to the ground) DC = 22
+			- Greater Teleport
+				- Instantly teleport yourself and 50 pounds of objects to the location of your choosing
+			- Unholy Blight
+				- Deals 5d8 dmg to good creatures and sickens them for 1d4 rounds
+				- Sickened
+					- -2 to all d20 rolls and weapon damage rolls
+				- Standard Action
+				- Range: 100ft+10ft/level
+				- Area: 20ft radius
+				- Will Partial (half damage and no sicken) DC = 19
+		- Daily
+			- Power Word Stun
+				- Utter a single word that stuns a single creature
+				- Duration: 4d4 rounds if the target has <=50hp, 2d4 rounds if the target has 51-100hp, 1d4 if 101-150
+				- Stunned
+					- Drops all held items, can't take actions
+					- -2 to AC and loses his Dex bonus to AC
+				- Standard Action
+				- Range: 25ft+5ft/2 levels
+				- No saving throw or attack roll
+			- Summon Demon
+				- Standard Action
+				- Can summon with %50 chance of success
+					- 4d10 Dretches
+					- 1d2 Vrocks
+				- Can summon with %20 chance of success
+					- 1 Galbrezu
+
+Dretch
+- CR: 2
+- Size/Type: Small Outsider
+- Align: Chaotic Evil
+- HD: 2d8+4 (13hp)
+- Initiative: +0
+- Speed: 20ft
+- AC: 16 (+1 size, +5 natural) Touch: 1, FF: 16
+- Saves: Fort +5, Ref +3, Will +3
+- Abilities: Str 12, Dex 10, Con 14, Int 5, Wis 11, Cha 11
+- BAB: +2, Grapple: -1
+- Attack: Claw +4 melee (1d6+1)
+- Full Attack: 2 claws +4 melee (1d6+1) and bite +2 melee (1d4)
+- Space/Reach: 5 ft./5 ft.
+- Caster Level: 2
+- Skills
+	- Hide +9
+	- Listen +5
+	- Move Silently +5
+	- Spot +5
+	- Search +2
+	- Survival +0 (+2 following tracks)
+- Special Qualities
+	- DR 5/cold iron
+	- DR 5/good
+	- Darkvision 60ft
+	- Immunities
+		- Electricity
+		- Poison
+	- Resistance
+		- Acid 10
+		- Cold 10
+		- Fire 10
+	- Telepathy 100ft
+- Feats
+	- Multiattack
+- Special Attacks
+	- Spell-like abilities
+		- Daily
+			- Scare
+				- Creature with less than 6HD becomes frightened for 1 round/level
+				- Frightened
+					- Creature flees from the caster as best it can, which includes using special abilities or spells
+					- -2 penalty to all d20 rolls
+				- Standard Action
+				- Range: 100ft
+				- Will Partial DC = 12
+			- Stinking Cloud
+				- Create a stinking cloud at a target location
+				- Creatures within the cloud become nauseated for as long as they are within the cloud and for 1d4+1 rounds after they leave the cloud
+				- Nauseated
+					- Unable to attack, cast spells, concentrate on spells, or do anything else requiring attention
+					- The only action such a character can take is a single move action per turn
+				- Range: 100ft+10ft/level
+				- Area: 20ft radius
+				- Duration: 1 round/level
+				- Fort Negates DC = 13
+				- Creatures that successfully save but remain within the cloud must continue saving as long as they are within the cloud or become nauseated again
+			- Summon Demon
+				- Summon another Dretch with 35% chance of success
+
+Vrock
+- CR: 9
+- Size/Type: Large Outsider
+- Align: Chaotic Evil
+- HD: 10d8+70 (115hp)
+- Initiative: +2
+- Speed: 30ft, Fly 50ft
+- AC: 22 (-1 size, +2 Dex, +11 natural), Touch: 11, FF: 20
+- Saves: Fort +14, Ref +9, Will +10
+- Abilities: Str 23, Dex 15, Con 25, Int 14, Wis 16, Cha 16
+- BAB: +10, Grapple: +20
+- Attack: Claw +15 melee (2d6+6)
+- Full Attack: 2 claws +15 melee (2d6+6) and bite +13 melee (1d8+3) and 2 talons +13 melee (1d6+3)
+- Space/Reach: 10ft/10ft
+- Caster Level: 12
+- Skills
+	- Concentration +20
+	- Diplomacy +5
+	- Hide +11
+	- Intimidate +16
+	- Knowledge (any one) +15
+	- Listen +24
+	- Move Silently +15
+	- Search +15
+	- Sense Motive +16
+	- Spellcraft +15
+	- Spot +24
+	- Survival +3 (+5 following tracks)
+- Special Qualities
+	- DR 10/good
+	- Darkvision 60 ft.
+	- Immunities
+		- Electricity
+		- Poison
+	- Resistance
+		- Acid 10
+		- Cold 10
+		- Fire 10
+		- Spell 17
+	- Telepathy 100 ft.
+- Feats
+	- Cleave
+	- Combat Reflexes
+	- Multiattack
+	- Power Attack
+- Special Attacks
+	- Dance of Ruin
+		- A group of 3 Vrocks must join hands in a circle, dancing wildly and chanting
+		- After 3 rounds of dancing, all creatures within 100ft except for demons take 20d6 dmg
+		- Stunning, paralyzing, or slaying one of the vrocks stops the dance
+		- Reflex Half DC = 18
+	- Spell-like Abilities
+		- At Will
+			- Mirror image
+				- Creates 1d4+1/3 caster levels copies of caster
+				- Standard Action
+				- Duration: 1min/level
+				- Attackers must choose which image to attack
+				- Roll randomly to determine if they hit the original or not
+				- Images dissipate as soon as they are attacked
+			- Telekinesis (DC 18)
+			- Greater Teleport
+				- - Instantly teleport yourself and 50 pounds of objects to the location of your choosing
+		- Daily
+			- Heroism
+				- Target gains +2 morale bonus on attack rolls, saves, and skill checks
+				- Standard Action
+				- Range: Touch
+				- Duration: 10min/level
+			- Summon Demon
+				- Can summon 2d10 dretches or another vrock with a 35% chance of success
+	- Spores
+		- Release spores to deal 1d8 dmg to all creatures adjacent to caster
+		- The sports penetrate armor and skin and grow, dealing an additionsl 1d4 dmg each round for 10 rounds
+		- At the end of 10 rounds, the target is covered with viny growths
+		- Free Action
+		- 1 use every 3 rounds
+	- Stunning Screech
+		- All creatures within 30ft of caster are stunned for 1 round
+		- Stunned
+			- Drops all held items, can't take actions
+			- -2 to AC and loses his Dex bonus to AC
+		- Standard action
+		- Fort Negates DC = 22
